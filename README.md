@@ -14,4 +14,3 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Historia geral
  <br/> :email: &nbsp; Entre em contato comigo: [![Gmail Badge](https://img.shields.io/badge/-adrian.r.scalia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian.r.scalia@gmail.com)](mailto:adrian.r.scalia@gmail.com)
-
