@@ -1,12 +1,12 @@
-# funcionalidades
-
-- Rota lista total conexões  realizadas
-- Rota criar nova conexão
-
+# Funcionalidades
 
 ## Conexões
 
+- Rota para listar o total de conexões realizadas;
+- Rota para criar uma nova conexão;
 
-- Rota pra criar uma aula
-- Rota listar aulas
-    - Filtrar materia,  dia semana, horario
+## Aulas
+
+- Rota para criar uma aula;
+- Rota para listar aulas;
+  - Filtrar por matéria, dia da semana e horário;
